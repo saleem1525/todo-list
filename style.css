@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+    text-align: center
+}
+ .todolist{ 
+    justify-content: center;
+    
+}
+h1{
+    font-family: 'Rowdies', cursive;
+    color: #f42944;
+}
+ .li-item{ 
+    list-style: none;
+    font-family: sans-serif;
+   
+}
+input{ 
+    margin: 5px
+}
+ .addbtn{ 
+    margin-top: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+ .resetbtn{ 
+    margin-top: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    cursor: pointer;
+}
+ .lidelbtn{ 
+    margin: 5px;
+}
+.editcolor{
+    margin: 5px;
+}
+ .main{ 
+    width: 50%;
+    height: 47em;
+    background-color: burlywood;
+    margin: auto;
+    border: 3px solid rgb(255, 255, 255);
+} 
